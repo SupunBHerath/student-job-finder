@@ -1,0 +1,5 @@
+{
+  "name": "Student Part-Time Job Finder",
+  "description": "A web application for university students in Sri Lanka to find part-time jobs in their hometown. Features role-based access for students and an admin panel for managing job listings.",
+  "requestFramePermissions": []
+}
